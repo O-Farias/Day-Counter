@@ -2,10 +2,6 @@
 
 Este é um projeto simples de um contador de dias construído com React, Vite e Tailwind CSS. A aplicação conta quantos dias se passaram desde o início ou desde a última reinicialização, permitindo que o usuário atualize manualmente o contador e exiba o recorde de dias.
 
-## Demonstração
-
-![Demonstração](https://prnt.sc/dRSZyJVaC5W-)
-
 ## Funcionalidades
 
 - Contagem automática de dias a cada 24 horas.
