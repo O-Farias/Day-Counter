@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+body {
+  @apply text-white;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(270deg, #6a11cb, #2575fc, #6a11cb);
+  background-size: 600% 600%;
+  animation: gradientAnimation 16s ease infinite;
+}
+
+/* animação para o gradiente */
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
