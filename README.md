@@ -74,3 +74,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais detalhes.
+
+## Deploy
+
+A aplicação está implantada no GitHub Pages e pode ser acessada [aqui.](https://o-farias.github.io/Day-Counter/)
